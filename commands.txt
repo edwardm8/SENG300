@@ -1,0 +1,27 @@
+dir
+dir force
+git add
+git commit
+git remote
+git push
+
+git branch pot (create branch)
+got branch (to check branches) green means where the pointer is pointing 
+git push origin -u pot 
+
+git checkout pot (switches header to point)
+
+when merging header point to the one you want to merge to. 
+git checkout master
+
+git merge pot 
+git push
+
+git branch -d pot (delete branch locally)
+
+git push orgin -delete pot
+
+git clone url (cd to where you want it)
+
+
+commit push pull clone make branch delete branch merge branch
